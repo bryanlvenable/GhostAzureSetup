@@ -4,3 +4,6 @@
 [submodule "content/themes/ghost-aside"]
 	path = content/themes/ghost-aside
 	url = https://github.com/bryanlvenable/ghost-aside.git
+[submodule "content/themes/Casperious"]
+	path = content/themes/Casperious
+	url = https://github.com/bryanlvenable/Casperious.git
